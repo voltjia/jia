@@ -1,3 +1,7 @@
+# READ ME FIRST
+
+**Notice: This project has been renamed and moved to https://github.com/Fundot/fundot, which belongs to an organization, Fundot. Please go to the new webpage for further information. People interested in this project may feel free to join the organization. As a result, this old repository may not be updated except for special circumstances.**
+
 # Jia
 
 Jia Programming Language
